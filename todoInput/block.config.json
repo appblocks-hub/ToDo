@@ -2,8 +2,8 @@
   "name": "todoInput",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/appblocks-hub/ToDo.git",
+    "ssh": "git@github.com:appblocks-hub/ToDo.git",
     "branch": "block_todoInput"
   },
   "language": "js",
