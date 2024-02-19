@@ -1,0 +1,12 @@
+{
+    "apps": [
+    {
+      "name": "todo-app",
+      "script": "bb start",
+      "cwd": "/home/ubuntu/todo-app",
+      "max_memory_restart" : "900M"
+    }
+  ]
+}
+
+
